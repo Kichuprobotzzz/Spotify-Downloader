@@ -30,3 +30,4 @@ Pillow
 wget
 youtube-search-python
 ffmpeg
+avconv
